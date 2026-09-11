@@ -17,4 +17,4 @@ I build backend and automation systems, and I care about the places where optimi
 
 **Elsewhere** — I was the sole engineer on a hospital-marketing platform (FastAPI + React, 70 REST operations, 1,300+ backend tests) that lives in a private company repo — happy to walk through the architecture in an interview.
 
-kimseunghyun0726@gmail.com
+kimseunghyun0726@gmail.com · [LinkedIn](https://www.linkedin.com/in/andy-kim-b922a1263)
