@@ -15,6 +15,6 @@ I build backend and automation systems, and I care about the places where optimi
 
 **Stack** — Python (FastAPI, PySide6, Playwright, pandas) · TypeScript / React · PostgreSQL / Supabase · Docker · GitHub Actions
 
-**Elsewhere** — I was the sole engineer on a hospital-marketing platform (FastAPI + React, 70 REST operations, 1,300+ backend tests) that lives in a private company repo — happy to walk through the architecture in an interview.
+**Elsewhere** — I was the sole engineer on a hospital-marketing platform (FastAPI + React, 70 REST operations, 1,300+ backend tests) now running for three clinics, where one operator does in ~4 hours a week what used to take three people. It lives in a private company repo — happy to walk through the architecture in an interview.
 
 kimseunghyun0726@gmail.com · [LinkedIn](https://www.linkedin.com/in/andy-kim-b922a1263)
