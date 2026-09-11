@@ -2,7 +2,7 @@
 
 Industrial Engineering @ University of Illinois Urbana-Champaign, minor in Computer Science · Class of 2028
 
-I build backend and automation systems, and I care about the places where optimization, money, and security meet. Currently doing undergraduate research on optimization under uncertainty applied to FX trading (UIUC ISE).
+I build backend and automation systems, and I care about the places where optimization, money, and security meet. Currently doing undergraduate research in inverse optimization (UIUC ISE): explaining why managers override system order recommendations by recovering their implicit demand weight and service-level penalty from observed decisions.
 
 **Start here**
 
